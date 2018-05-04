@@ -1,5 +1,7 @@
-# Remote Camera Videoing over Tox network.
+Remote Camera Videoing over Tox network
+=======================================
 
+## Summary
 eCamera is an exmperimental camera videoing application running over Tox network.
 
 ## Dependencies
@@ -9,4 +11,4 @@ eCamera is an exmperimental camera videoing application running over Tox network
 
 ## License
 
-This project source code are made available under the MIT License, located in the LICENSE file.
+MIT
